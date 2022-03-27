@@ -1986,6 +1986,11 @@
   dependencies:
     type-detect "4.0.8"
 
+"@snyk/protect@^1.883.0":
+  version "1.883.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.883.0.tgz#048015d4e0f1c18b6abc7e2773b6374b620bd399"
+  integrity sha512-N/EqG6P/qNYWOfuZAfGS1d7yGwGY4zV7AvKtgTzdhazDt7G/mRLG6czLSWNWGEFYBiMsYRVPHdc5It3bjhmIGw==
+
 "@stardust-ui/react-component-event-listener@~0.38.0":
   version "0.38.0"
   resolved "https://neo.jfrog.io/neo/api/npm/npm/@stardust-ui/react-component-event-listener/-/react-component-event-listener-0.38.0.tgz#1787faded94b40ad41226e6289baf13e701c6e7f"
